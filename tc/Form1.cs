@@ -79,7 +79,7 @@ namespace WindowsFormsApplication7
                     }
                     }
             }
-            MessageBox.Show("50 Adet Türkiye Cumhuriyeti Kimlik Numarası Üretildi.");
+            MessageBox.Show("50 Adet T.C. Üretildi.");
         }
     }
 }
